@@ -1,0 +1,81 @@
+🕷️
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h3, h4 {
+    color: #b5e017;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+div {
+    margin-bottom: 20px;
+    /* background-color: #fff; */
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(165, 18, 18, 0.1);
+}
+
+
+ 
+.pl{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.pl button{
+    border: none;
+    outline: none;
+    background-color: #b5e017;
+    color: white;
+}
+#about {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h4 {
+    margin-top: 10px;
+}
+
+p {
+    margin: 10px 0;
+    color: #ff0000;
+
+}
+img{
+    width: 300px;
+}
+#logo{
+    width: 80px;
+    margin: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+#text{
+    color: rgb(5, 5, 195);
+}
+#input{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    font-size: large;
+}
